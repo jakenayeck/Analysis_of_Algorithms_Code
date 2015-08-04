@@ -1,6 +1,5 @@
 Python and Java code for CSORW4231 (analysis of algorithms)
 ===========================
-|First 3 weeks|
 |------------|
 |1) Insertion Sort|
 |2) Merge Sort|
